@@ -4,6 +4,10 @@ git
 
 and gitlab
 
+things to learn more-
+core java
+java spring
+
 
 
 need- this is a need for every programmer these days
